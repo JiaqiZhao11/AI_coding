@@ -4,7 +4,7 @@ This repository is for the AI coding project at Con Amore, Aarhus University.
 
 Here, we provide a guideline on how to fine-tune a GPT model to code autobiographical memories and test the model's performance.   
 - The guideline and the prompts used in our AI coding project can be found in the Word file 'AI coding_Supplemental Material.docx'  
-- The Python code for executing the fine-tuning job and model performance evaluation can be found in the notebook files: 'coding_moral_theme.ipynb' and 'coding_moral_role.ipynb'.
+- The Python code for executing the fine-tuning job and model performance evaluation can be found in the notebook files: 'AI_coding.ipynb'.
 
 
 Before running the code:  
