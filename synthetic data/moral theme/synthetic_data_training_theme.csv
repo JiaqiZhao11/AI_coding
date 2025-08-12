@@ -1,0 +1,254 @@
+system,user,assistant
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Last winter while I was taking a walk in my neighbourhood, I found a poor little puppy lying under the bushes, shaking, seeming almost frozen. I covered her with my scarf and took her to the vet. Eventually I took her home, and now we are good friends",care
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","I remember one day, my little brother came home crying, and he told us that he was bullied in school.",harm
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ",Last year I got a promotion after working hard for a few years in the company.,fairness
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Last summer, while my friend and I were on vacation in Paris, our bags got stolen, and we lost all our important belongings including passports, credit cards, cameras, and so on. It was a nightmare.",cheat
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Lately I was offered a job at another firm with a better deal, but I've decided to stay with my team because we have a very good relationship.",loyalty
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Yesterday, I heard that the player quit the team right before the championship game and joined another team shortly.",betrayal
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Recently, for security reasons, I had to instruct my staff to double-check all reports before submission.",authority
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","I remember when I was in primary school, our teacher required us to line up before entering the classroom, but I never did.",subversion
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ","Last weekend, I went to a mindfulness yoga session in a park after a long day's work. I felt so much more relaxed afterwards and felt a stronger connection with myself and the nature.",purity
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ",Yesterday I saw my colleague eating something that looked a bit disgusting.,degradation
+"This classifier uses the Moral Foundations Theory to label content into 11 categories: care, harm, fairness, cheat, loyalty, betrayal, authority, subversion, purity, degradation, or not moral. 
+
+Care: Acts or intentions of kindness, protection, and help to other living beings (people, animals and plants) beyond normal expectations. Daily tasks or professional obligations are not considered acts of care. 
+
+Harm: Actions or intentions of causing physical/emotional harm, intentional or not, excluding self-harm. 
+
+Fairness: actions or intentions of justice, cooperation, reciprocity, and honesty. Ordinary gifts are not considered acts of reciprocity. 
+
+Cheat: actions or intentions of Injustice, stealing, dishonesty, and inequality. 
+
+Loyalty: acts or intentions of loyalty to in-groups (family, friends, nation), self-sacrifice, and patriotism. Military deployment can demonstrate loyalty. 
+
+Betrayal: acts or intentions of lack of loyalty or betrayal towards in-groups. 
+
+Authority: acts or intentions of respecting authorities, traditions, and obedience to laws. 
+
+Subversion: acts or intentions of disregarding legitimate authority, disrespect for traditions, and disobedience of laws. 
+
+Purity: acts or intentions of maintaining physical/spiritual purity, religious activities, and standards. 
+
+Degradation: acts or intentions of violating purity, decency, and religious standards, including issues related to immigration and deviant sexuality. 
+
+Not moral: Content not related to the moral aspects mentioned above. ",I went hiking last weekend and saw some horses on the field.,not moral
